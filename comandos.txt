@@ -1,0 +1,1 @@
+g++ DisplayImage.cpp -o app `pkg-config --libs opencv`
