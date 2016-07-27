@@ -7,8 +7,24 @@
 #IncludeRegexTransform: 
 
 /home/matias/Programacion/C++/testOpenCv/DisplayImage.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
 iostream
 -
-opencv2/opencv.hpp
+clases/ToolKit.cpp
+/home/matias/Programacion/C++/testOpenCv/clases/ToolKit.cpp
+typeinfo
+-
+
+/home/matias/Programacion/C++/testOpenCv/clases/ToolKit.cpp
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+iostream
+-
+string
 -
 
